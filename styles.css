@@ -4,3 +4,6 @@
 #personal-image {
     border: solid #71ffdf 3px;
 }
+.navbar-brand {
+    color: #71ffdf !important;
+}
