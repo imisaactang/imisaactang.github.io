@@ -8,7 +8,7 @@ $(document).ready(function(){
     });
     
     setTimeout(function() {
-      $('#name-title').html("<h1>🔥</h1>");
+      $('#name-title').html("<h1>Isaac Tang 🔥</h1>");
     }, 2000)
 
 });
