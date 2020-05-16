@@ -12,6 +12,11 @@ $(document).ready(function(){
             1000);
     });
     
+    $( "#youtube-link" ).click(function() {
+        $('html, body').animate({scrollTop: $('#youtube').offset().top},
+            1000);
+    });
+    
     setTimeout(function() {
       $('#name-title').html("<h1>Isaac Tang 🔥</h1>");
     }, 2000)
