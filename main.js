@@ -18,7 +18,7 @@ $(document).ready(function(){
     });
 
     $( "#universityacceptance-link" ).click(function() {
-        $('html, body').animate({scrollTop: $('#youtube').offset().top},
+        $('html, body').animate({scrollTop: $('#universityacceptance').offset().top},
             1000);
     });
     setTimeout(function() {
