@@ -16,7 +16,11 @@ $(document).ready(function(){
         $('html, body').animate({scrollTop: $('#youtube').offset().top},
             1000);
     });
-    
+
+    $( "#universityacceptance-link" ).click(function() {
+        $('html, body').animate({scrollTop: $('#youtube').offset().top},
+            1000);
+    });
     setTimeout(function() {
       $('#name-title').html("<h1>Isaac Tang 🔥</h1>");
     }, 2000)

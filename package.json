@@ -1,0 +1,19 @@
+{
+  "name": "imisaactang.github.io",
+  "version": "1.0.0",
+  "description": "A simple free personal portfolio website template in html, scss and javacript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imisaactang/imisaactang.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imisaactang/imisaactang.github.io/issues"
+  },
+  "homepage": "https://github.com/imisaactang/imisaactang.github.io#readme"
+}
